@@ -1,1 +1,0 @@
-import{_ as t,c as a,r as n,o as r,w as s}from"./desktop-pCsUSS5j.js";const p={name:"procurement-dashboard"};function c(m,e,_,d,f,u){const o=n("page-home");return r(),a(o,{"page-name":"procurement-dashboard"},{default:s(()=>e[0]||(e[0]=[])),_:1})}const l=t(p,[["render",c]]);export{l as default};
